@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'ALKATIP_Kufi';
+	src: url('./ALKATIP_Kufi/ALKATIP_Kufi.eot');
+	src: url('./ALKATIP_Kufi/ALKATIP_Kufi.eot?#iefix') format('embedded-opentype'),
+		url('./ALKATIP_Kufi/ALKATIP_Kufi.woff') format('woff'),
+		url('./ALKATIP_Kufi/ALKATIP_Kufi.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'ALKATIP_Yazma';
+	src: url('./ALKATIP_Yazma/ALKATIP_Yazma.eot');
+	src: url('./ALKATIP_Yazma/ALKATIP_Yazma.eot?#iefix') format('embedded-opentype'),
+		url('./ALKATIP_Yazma/ALKATIP_Yazma.woff') format('woff'),
+		url('./ALKATIP_Yazma/ALKATIP_Yazma.ttf') format('truetype');
+}
